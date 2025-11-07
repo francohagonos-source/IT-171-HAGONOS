@@ -22,3 +22,10 @@ while game_running:
         player_x += 1
     if move == "down":
         player_x += 1
+
+print(f"Score - You: {player_score}, Computer: {computer_score}\n")
+
+if player_score == 2:
+    print("You won the game!")
+else:
+    print("Computer won the game!")
