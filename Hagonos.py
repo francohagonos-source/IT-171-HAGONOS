@@ -23,7 +23,6 @@ while game_running:
         print("Invalid move. Try again.")
         continue
 
-    # Check if treasure is found
     if player_x == treasure_x and player_y == treasure_y:
         print(f"You found the treasure at ({treasure_x}, {treasure_y})! ")
         game_running = False
