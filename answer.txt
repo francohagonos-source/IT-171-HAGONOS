@@ -1,0 +1,4 @@
+they allow it to run easier by giving  tools lke GUI and terminal integration
+Programmers use command line because it's faster and more powerful
+C:/Users/yourname
+The fie is README.md and it contains a description written in markdown
